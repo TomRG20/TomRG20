@@ -3,8 +3,10 @@
 
 <div style="max-width: 100%; margin-bottom: 15px;margin-top: 20px;">
   <div style="display: flex; align-items: center; margin-bottom: 15px;">
-    <img src="https://media.tenor.com/HYb5ETTGZDAAAAAC/tony-stark-coding-tony-stark.gif" style="width: 60%; margin-right: 15px;" alt="GIF animado">
+    <div style="flex-basic: 40%;">
+        <img src="https://media.tenor.com/HYb5ETTGZDAAAAAC/tony-stark-coding-tony-stark.gif" style="width: 60%; margin-right: 15px;" alt="GIF animado">
     <div>
+    <div style="flex-basic: 60%;">
         <p>I'm a software developer passionate about: </p>
         <p>Technology, coding, automation, domotics.</p>
         <p>I maintain, assemble and repair computers.</p>
