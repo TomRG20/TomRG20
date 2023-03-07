@@ -3,7 +3,7 @@
 
 <div style="max-width: 100%; margin-bottom: 15px;margin-top: 20px;">
   <div style="display: flex; align-items: top; margin-bottom: 15px;">
-    <img src="https://media.tenor.com/HYb5ETTGZDAAAAAC/tony-stark-coding-tony-stark.gif" style="width: 40%; margin-right: 15px;" alt="GIF animado">
+    <img src="https://media.tenor.com/HYb5ETTGZDAAAAAC/tony-stark-coding-tony-stark.gif" style="width: 30%; margin-right: 15px;" alt="GIF animado">
     <div>
         <p>I'm a software developer passionate about: </p>
         <p>Technology, coding, automation, domotics.</p>
