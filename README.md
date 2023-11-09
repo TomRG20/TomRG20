@@ -58,11 +58,7 @@
   <div style="max-width: 100%; margin-bottom: 15px;margin-top: 20px;">
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TomRG20&show_icons=true&theme=dark&title_color=555353&text_color=ffffff&bg_color=301818&locale=es&layout=compact" alt="TomRG20" /></p>
   </div>
-  
-  <div style="max-width: 100%; margin-bottom: 10px;margin-top: 10px;">
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=TomRG20&" alt="TomRG20" /></p>
-  </div>
-  
+   
   <div style="max-width: 100%; margin-bottom: 10px;margin-top: 20px;">
     <hr style="border-bottom: 2px solid gray;">
     <h3 align="left">Volunteer Experience:</h3>
