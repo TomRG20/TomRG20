@@ -1,9 +1,4 @@
-<div align="center">
-  <h1>Hi 👋, I'm Tomás, Welcome to my Portfolio!</h1>
-  <a href="https://drive.google.com/file/d/1BHFe0rQJjascjFhSh4qrGA4A4bDxSoZf/view?usp=sharing" target="_blank" rel="noreferrer" style="display: inline-block;>
-    <img src="https://drive.google.com/file/d/1k8Wicqiv5oU_7zAX5gm71DBiYj1OpmWZ/view?usp=sharing" alt="Download CV" width="40" height="40"/>Descargar CV
-  </a> 
-</div>
+<h1 align="center">Hi 👋, I'm Tomás, Welcome to my Portfolio!</h1>
 
 <h3 align="center">  </h3>
 
@@ -75,3 +70,11 @@
     <a href="https://www.facebook.com/100065100627251/videos/886370238454925/">Watch video on Facebook</a>
   </div>
 </div>
+
+
+<br /><hr style="border-bottom: 2px solid gray;">
+<h3 align="left">Descargar mi CV:</h3>
+
+<a href="https://github.com/TomRG20/TomRG20/blob/main/Tomás%20Resume%20(U).pdf" target="_blank" rel="noreferrer" style="display: inline-block;">
+    <img src="https://github.com/TomRG20/TomRG20/blob/main/cv.png" alt="Download CV" width="40" height="40"/>
+</a>
