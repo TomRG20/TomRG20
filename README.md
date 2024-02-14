@@ -4,7 +4,9 @@
 <div style="max-width: 100%; margin-bottom: 15px;margin-top: 20px;">
   <div style="display: flex; align-items: top; margin-bottom: 15px;">
     <div style="flex-basic: 45%;">
-        <img src="https://drive.google.com/file/d/1Td0AIhWO3IjSMdGH7ux0FLWvt2Gvz9zn/view?usp=sharing" style="width: 80%; margin-right: 15px;" alt="PNG Cabecera">
+      <picture> </picture>
+      
+      <img src="https://drive.google.com/file/d/1Td0AIhWO3IjSMdGH7ux0FLWvt2Gvz9zn/view?usp=sharing" style="width: 80%; margin-right: 15px;" alt="PNG Cabecera">
     <div>
     <div style="flex-basic: 50%;">
         <p>I'm a software developer passionate about: </p>
@@ -29,7 +31,7 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
 
 <h4 align="left">Some Framewors and Libraries of Python:</h4>
