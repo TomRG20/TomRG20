@@ -4,7 +4,7 @@
 <div style="max-width: 100%; margin-bottom: 15px;margin-top: 20px;">
   <div style="display: flex; align-items: top; margin-bottom: 15px;">
     <div style="flex-basic: 45%;"> 
-      <a href="https://www.linkedin.com/in/tomas86/" target="_blank" rel="noreferrer"> <img src="https://mega.nz/file/L1BH0CiZ#NXBaZDfQIR2mt98vpVVnZFK8Ec80SGubplpdmwPU8SM" alt="cabecera" width=40% height=40% /> </a>
+      <a href="https://www.linkedin.com/in/tomas86/" target="_blank" rel="noreferrer"> <img src="https://github.com/TomRG20/TomRG20/blob/1b5986ca7df648c8abff942cb0b22c2b36674223/Azul%20Corporativo%20Profesional%20Banner%20LinkedIn%20(2).png" alt="cabecera" width=40% height=40% /> </a>
     <div>
     <div style="flex-basic: 50%;">
         <p>I'm a software developer passionate about: </p>
