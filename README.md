@@ -50,25 +50,24 @@
 <a href="https://linkedin.com/in/tomas86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomas86" height="30" width="40" /></a>  <a href="https://instagram.com/tomyrod86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomyrod86" height="30" width="40" /></a>  <a href="https://beacons.ai/tomyrod86" target="blank"><img align="center" src="https://cdn.beacons.ai/user_content/AHnOl9MMnuMm1Z7JLxNaIU5g9qU2/profile_beacons.png?t=1636242247083" alt="tomyrod86" height="40" width="40" /></a>  <a href="https://stackoverflow.com/users/2673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2673" height="30" width="40" /></a>  <a href="https://dev.to/TomRG20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="TomRG20" height="30" width="40" /></a>
 </p>
 
-
 <h3 align="left">Support me:</h3>
 
 <p><a href="https://www.buymeacoffee.com/tomyrod86"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tomyrod86" /></a><br /> </p>
-
-
-<br /><hr style="border-bottom: 2px solid gray;">
-<h3 align="left">My personal CV:</h3>
-
-<a href="https://drive.google.com/file/d/1BHFe0rQJjascjFhSh4qrGA4A4bDxSoZf/view?usp=sharing" target="_blank" rel="noreferrer" style="display: inline-block;">
-    <img src="https://github.com/TomRG20/TomRG20/blob/main/cv.png" alt="Download CV" width="40" height="40"/> <h3 align="left">Download my CV:</h3>
-</a>
-
 
 <br /><hr style="border-bottom: 2px solid gray;">
 
 <div style="display: flex; flex; flex-direction: column; margin-bottom: 15px;">
   <div style="max-width: 100%; margin-bottom: 15px;margin-top: 20px;">
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TomRG20&show_icons=true&theme=dark&title_color=555353&text_color=ffffff&bg_color=301818&locale=es&layout=compact" alt="TomRG20" /></p>
+  </div>
+
+
+  <div style="max-width: 100%; margin-bottom: 10px;margin-top: 20px;">
+    <hr style="border-bottom: 2px solid gray;">
+    <h3 align="left">My Projects:</h3>
+    <p><br /><a href="https://www.facebook.com/profile.php?id=100065100627251">CV19_Fab_Malaga_Occidental</a>, from 20 March to June of 2020</p>
+    <p>-Printing with PLA and handing out visors for covid19 and ear savers for the doctors and nurses.</p>
+    <a href="https://www.facebook.com/100065100627251/videos/886370238454925/">Watch video on Facebook</a>
   </div>
    
   <div style="max-width: 100%; margin-bottom: 10px;margin-top: 20px;">
@@ -79,3 +78,12 @@
     <a href="https://www.facebook.com/100065100627251/videos/886370238454925/">Watch video on Facebook</a>
   </div>
 </div>
+
+
+
+<br /><hr style="border-bottom: 2px solid gray;">
+<h3 align="left">Download my CV:</h3>
+
+<a href="https://drive.google.com/file/d/1BHFe0rQJjascjFhSh4qrGA4A4bDxSoZf/view?usp=sharing" target="_blank" rel="noreferrer" style="display: inline-block;">
+    <img src="https://github.com/TomRG20/TomRG20/blob/main/cv.png" alt="Download CV" width="50" height="50"/> 
+</a>
