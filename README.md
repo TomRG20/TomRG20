@@ -82,7 +82,7 @@
 <h3 align="left">See my Courses and Download my CV:</h3>
 
 <a href="https://drive.google.com/drive/folders/1CgJjp0cvS5zVrTOUMhyJK8ZhcJRUR3TI?usp=sharing" target="_blank" rel="noreferrer" style="display: inline-block;">
-    <img src="https://github.com/TomRG20/TomRG20/blob/main/cursos.png" alt="My Courses" width="50" height="50"/> 
+    <img src="https://github.com/TomRG20/TomRG20/blob/main/cursos.png" alt="My Courses" width="60" height="60"/> 
 </a>
 
 <a href="https://drive.google.com/file/d/1BHFe0rQJjascjFhSh4qrGA4A4bDxSoZf/view?usp=sharing" target="_blank" rel="noreferrer" style="display: inline-block;">
