@@ -78,8 +78,6 @@
   </div>
 </div>
 
-
-
 <br /><hr style="border-bottom: 2px solid gray;">
 <h3 align="left">Download my CV:</h3>
 
