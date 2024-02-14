@@ -55,6 +55,15 @@
 
 <p><a href="https://www.buymeacoffee.com/tomyrod86"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tomyrod86" /></a><br /> </p>
 
+
+<br /><hr style="border-bottom: 2px solid gray;">
+<h3 align="left">My personal CV:</h3>
+
+<a href="https://drive.google.com/file/d/1BHFe0rQJjascjFhSh4qrGA4A4bDxSoZf/view?usp=sharing" target="_blank" rel="noreferrer" style="display: inline-block;">
+    <img src="https://github.com/TomRG20/TomRG20/blob/main/cv.png" alt="Download CV" width="40" height="40"/> <h3 align="left">Download my CV:</h3>
+</a>
+
+
 <br /><hr style="border-bottom: 2px solid gray;">
 
 <div style="display: flex; flex; flex-direction: column; margin-bottom: 15px;">
@@ -70,11 +79,3 @@
     <a href="https://www.facebook.com/100065100627251/videos/886370238454925/">Watch video on Facebook</a>
   </div>
 </div>
-
-
-<br /><hr style="border-bottom: 2px solid gray;">
-<h3 align="left">Descargar mi CV:</h3>
-
-<a href="https://github.com/TomRG20/TomRG20/blob/main/Tomás%20Resume%20(U).pdf" target="_blank" rel="noreferrer" style="display: inline-block;">
-    <img src="https://github.com/TomRG20/TomRG20/blob/main/cv.png" alt="Download CV" width="40" height="40"/>
-</a>
