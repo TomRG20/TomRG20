@@ -8,12 +8,12 @@
     <div>
     <div style="flex-basic: 50%;">
         <p>I'm a dedicated Python software developer with a passion for: </p>
-        <p> 💻 Technology: Constantly exploring the latest trends and advancements.</p>
-        <p> 💻 Coding: learning with curious the intricacies of programming, crafting solutions with Python while constantly refining my skills.</p>
-        <p> 🌐 World of 3D: Exploring the world of 3D design and 3D printing with my little Ender 3 pro.</p>
-        <p> 🛠️ Computer Maintenance, Assembly, and Repair</p>
+        <p> 🚀 <strong>Technology:</strong> Constantly exploring the latest trends and advancements.</p>
+        <p> 💻 <strong>Coding:</strong> learning with curious the intricacies of programming, crafting solutions with Python while constantly refining my skills.</p>
+        <p> 🌐 <strong>World of 3D:</strong> Exploring the world of 3D design and 3D printing with my little Ender 3 pro.</p>
+        <p> 🛠️ <strong>Computer Maintenance, Assembly, and Repair</strong></p>
         <p></p>
-        <p>Feel free to explore my GitHub repositories, where I showcase my evolving coding skills. Feedback and guidance are always appreciated </p>
+        <p>Feel free to explore my GitHub repositories, where I showcase my evolving coding skills. <strong>Feedback and guidance are always appreciated</strong></p>
     </div>
   </div>
   
