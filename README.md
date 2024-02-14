@@ -64,10 +64,9 @@
 
   <div style="max-width: 100%; margin-bottom: 10px;margin-top: 20px;">
     <hr style="border-bottom: 2px solid gray;">
-    <h3 align="left">My Projects:</h3>
-    <p><br /><a href="https://www.facebook.com/profile.php?id=100065100627251">CV19_Fab_Malaga_Occidental</a>, from 20 March to June of 2020</p>
-    <p>-Printing with PLA and handing out visors for covid19 and ear savers for the doctors and nurses.</p>
-    <a href="https://www.facebook.com/100065100627251/videos/886370238454925/">Watch video on Facebook</a>
+    <h3 align="left">My Personal Projects:</h3>
+    <p><br />
+    </p>
   </div>
    
   <div style="max-width: 100%; margin-bottom: 10px;margin-top: 20px;">
@@ -85,5 +84,5 @@
 <h3 align="left">Download my CV:</h3>
 
 <a href="https://drive.google.com/file/d/1BHFe0rQJjascjFhSh4qrGA4A4bDxSoZf/view?usp=sharing" target="_blank" rel="noreferrer" style="display: inline-block;">
-    <img src="https://github.com/TomRG20/TomRG20/blob/main/cv.png" alt="Download CV" width="50" height="50"/> 
+    <img src="https://drive.google.com/file/d/1jgs1YW0Lul0xd2q1cHW7yfqkH8eKuhKv/view?usp=sharing" alt="Download CV" width="50" height="50"/> 
 </a>
