@@ -11,7 +11,7 @@
         <p>Technology: Constantly exploring the latest trends and advancements.</p>
         <p>Coding: learning with curious the intricacies of programming, crafting solutions with Python while constantly refining my skills.</p>
         <p>World of 3D: Exploring the world of 3D design and 3D printing with my little Ender 3 pro.</p>
-        <p> </p>
+        </p>
         <p>As a developer, I am excited about the opportunity to grow and enhance my abilities.</p>
         <p>Feel free to explore my GitHub repositories, where I showcase my evolving coding skills. Feedback and guidance are always appreciated </p>
     </div>
