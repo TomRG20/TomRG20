@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Tomás, Welcome to my Portfolio!</h1>
   <a href="https://drive.google.com/file/d/1BHFe0rQJjascjFhSh4qrGA4A4bDxSoZf/view?usp=sharing" target="_blank" rel="noreferrer" style="display: inline-block;>
-    <img src="https://github.com/TomRG20/TomRG20/blob/main/cv.png" alt="Download CV" width="40" height="40"/>Descargar CV
+    <img src="https://drive.google.com/file/d/1k8Wicqiv5oU_7zAX5gm71DBiYj1OpmWZ/view?usp=sharing" alt="Download CV" width="40" height="40"/>Descargar CV
   </a> 
 </div>
 
