@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomás, Welcome to my profile!</h1>
+<h1 align="center">Hi 👋, I'm Tomás, Welcome to my Portfolio!</h1>  <a href="https://github.com/TomRG20/TomRG20/blob/main/Tomás%20Resume%20(U).pdf">target="_blank" rel="noreferrer"> <img src="https://github.com/TomRG20/TomRG20/blob/main/cv.png" alt="Descargar CV" width="40" height="40"/> </a>
 <h3 align="center">  </h3>
 
 <div style="max-width: 100%; margin-bottom: 15px;margin-top: 20px;">
@@ -18,13 +18,6 @@
   </div>
   
 </div>
-
-<hr style="border-bottom: 2px solid gray;">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tomas86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomas86" height="30" width="40" /></a>  <a href="https://instagram.com/tomyrod86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomyrod86" height="30" width="40" /></a>  <a href="https://beacons.ai/tomyrod86" target="blank"><img align="center" src="https://cdn.beacons.ai/user_content/AHnOl9MMnuMm1Z7JLxNaIU5g9qU2/profile_beacons.png?t=1636242247083" alt="tomyrod86" height="40" width="40" /></a>  <a href="https://stackoverflow.com/users/2673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2673" height="30" width="40" /></a>  <a href="https://dev.to/TomRG20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="TomRG20" height="30" width="40" /></a>
-</p>
 
 <hr style="border-bottom: 2px solid gray;">
 
@@ -50,7 +43,15 @@
 </p>
 
 <hr style="border-bottom: 2px solid gray;">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tomas86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomas86" height="30" width="40" /></a>  <a href="https://instagram.com/tomyrod86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomyrod86" height="30" width="40" /></a>  <a href="https://beacons.ai/tomyrod86" target="blank"><img align="center" src="https://cdn.beacons.ai/user_content/AHnOl9MMnuMm1Z7JLxNaIU5g9qU2/profile_beacons.png?t=1636242247083" alt="tomyrod86" height="40" width="40" /></a>  <a href="https://stackoverflow.com/users/2673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2673" height="30" width="40" /></a>  <a href="https://dev.to/TomRG20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="TomRG20" height="30" width="40" /></a>
+</p>
+
+
 <h3 align="left">Support me:</h3>
+
 <p><a href="https://www.buymeacoffee.com/tomyrod86"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tomyrod86" /></a><br /> </p>
 
 <br /><hr style="border-bottom: 2px solid gray;">
