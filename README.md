@@ -3,10 +3,9 @@
 
 <div style="max-width: 100%; margin-bottom: 15px;margin-top: 20px;">
   <div style="display: flex; align-items: top; margin-bottom: 15px;">
-    <div style="flex-basic: 45%;">
-      <picture> </picture>
+    <div style="flex-basic: 45%;"> 
+      <a href="https://www.linkedin.com/in/tomas86/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/file/d/1Td0AIhWO3IjSMdGH7ux0FLWvt2Gvz9zn/view?usp=sharing" alt="sqlite" width=40% height=40% /> </a>         
       
-      <img src="https://drive.google.com/file/d/1Td0AIhWO3IjSMdGH7ux0FLWvt2Gvz9zn/view?usp=sharing" style="width: 80%; margin-right: 15px;" alt="PNG Cabecera">
     <div>
     <div style="flex-basic: 50%;">
         <p>I'm a software developer passionate about: </p>
