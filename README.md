@@ -82,5 +82,5 @@
 <h3 align="left">Download my CV:</h3>
 
 <a href="https://drive.google.com/file/d/1BHFe0rQJjascjFhSh4qrGA4A4bDxSoZf/view?usp=sharing" target="_blank" rel="noreferrer" style="display: inline-block;">
-    <img src="https://drive.google.com/file/d/1jgs1YW0Lul0xd2q1cHW7yfqkH8eKuhKv/view?usp=sharing" alt="Download CV" width="50" height="50"/> 
+    <img src="https://github.com/TomRG20/TomRG20/blob/main/cvblue.png" alt="Download CV" width="50" height="50"/> 
 </a>
