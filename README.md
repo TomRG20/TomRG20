@@ -7,12 +7,12 @@
       <a href="https://www.linkedin.com/in/tomas86/" target="_blank" rel="noreferrer"> <img src="https://github.com/TomRG20/TomRG20/blob/1b5986ca7df648c8abff942cb0b22c2b36674223/Azul%20Corporativo%20Profesional%20Banner%20LinkedIn%20(2).png" alt="cabecera" width=100% height=80% /> </a>
     <div>
     <div style="flex-basic: 50%;">
-        <p>I'm a software developer passionate about: </p>
-        <p>Technology, coding, automation, domotics.</p>
-        <p>I maintain, assemble and repair computers.</p>
-        <p>I love coffee and I'm trying to learn about 3D design and 3D printing.</p>
-        <p>On my GitHub profile, you can find some of my personal projects. </p>
-        <p>Feel free to explore and leave feedback! </p>
+        <p>I'm a dedicated Python software developer with a passion for: </p>
+        <p>Technology: Constantly exploring the latest trends and advancements.</p>
+        <p>Coding: learning with curious the intricacies of programming, crafting solutions with Python while constantly refining my skills.</p>
+        <p>Exploring the world of 3D design and 3D printing with my little Ender 3 pro.</p>
+        <p>As a developer, I am excited about the opportunity to grow and enhance my abilities.</p>
+        <p>Feel free to explore my GitHub repositories, where I showcase my evolving coding skills. Feedback and guidance are always appreciated </p>
     </div>
   </div>
   
