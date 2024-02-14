@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
+<div style="display: flex; align-items: center; justify-content: center; text-align: center;">
   <h1>Hi 👋, I'm Tomás, Welcome to my Portfolio!</h1>
   <a href="https://github.com/TomRG20/TomRG20/blob/main/Tomás%20Resume%20(U).pdf" target="_blank" rel="noreferrer">
     <img src="https://github.com/TomRG20/TomRG20/blob/main/cv.png" alt="Download CV" width="40" height="40"/>
