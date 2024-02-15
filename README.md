@@ -54,9 +54,9 @@
     <hr style="border-bottom: 2px solid gray;">
     <h3 align="left">My Personal Projects:</h3>
     <p>Tkinder, JSON, External API
-    <br /><a href="https://github.com/TomRG20/Estacion-Climatologica/blob/master/README.md" target="_blank" rel="noreferrer"> <img src="https://github.com/TomRG20/Estacion-Climatologica/raw/master/estacion%20climatica.png" alt="arduino" width="140" height="140"/> </a>
+    <br /><a href="https://github.com/TomRG20/Estacion-Climatologica/blob/master/README.md" target="_blank" rel="noreferrer"> <img src="https://github.com/TomRG20/Estacion-Climatologica/raw/master/estacion%20climatica.png" alt="arduino" width="280" height="140"/> </a>
     </br>
-    <a href="https://github.com/TomRG20/Estacion-Climatologica/blob/master/README.md" target="_blank" rel="noreferrer"> <img src="https://github.com/TomRG20/Estacion-Climatologica/raw/master/estacion%20climatica.png" alt="arduino" width="140" height="140"/> </a> 
+    <a href="https://github.com/TomRG20/Estacion-Climatologica/blob/master/README.md" target="_blank" rel="noreferrer"> <img src="https://github.com/TomRG20/Estacion-Climatologica/raw/master/estacion%20climatica.png" alt="arduino" width="280" height="140"/> </a> 
     </p>
   </div>
    
