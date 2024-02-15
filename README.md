@@ -53,7 +53,10 @@
   <div style="max-width: 100%; margin-bottom: 10px;margin-top: 20px;">
     <hr style="border-bottom: 2px solid gray;">
     <h3 align="left">My Personal Projects:</h3>
-    <p><br />
+    <p>Tkinder, JSON, External API
+    <br /><a href="https://github.com/TomRG20/Estacion-Climatologica/blob/master/README.md" target="_blank" rel="noreferrer"> <img src="https://github.com/TomRG20/Estacion-Climatologica/raw/master/estacion%20climatica.png" alt="arduino" width="140" height="140"/> </a>
+    </br>
+    <a href="https://github.com/TomRG20/Estacion-Climatologica/blob/master/README.md" target="_blank" rel="noreferrer"> <img src="https://github.com/TomRG20/Estacion-Climatologica/raw/master/estacion%20climatica.png" alt="arduino" width="140" height="140"/> </a> 
     </p>
   </div>
    
